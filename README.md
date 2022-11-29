@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @541270
-- 👀 I’m interested in becoming a Data Analyst.
-- 🌱 I’m currently studying Software Engineering with the option to major in Big Data Technologies.
-
+- 🌱  I’m currently studying Software Engineering with the options to specialise in Business Data, Infrastructures and Software. I have a previously attained a BSc in          Business Management, and believe it would go hand in hand wih business data.
+- 👀
